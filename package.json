@@ -1,0 +1,20 @@
+{
+  "name": "my_hello",
+  "version": "1.0.0",
+  "description": "assignment day 23",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Crowre/my_hello.git"
+  },
+  "author": "Wildan Auliya Hafidz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Crowre/my_hello/issues"
+  },
+  "homepage": "https://github.com/Crowre/my_hello#readme"
+}
